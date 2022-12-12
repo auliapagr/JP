@@ -1,11 +1,29 @@
-Aplikasi parkir dengan Codeigniter 3
+JANPANIK (JASA LAYANAN PARKIR ELEKTRONIK)
+Janpanik adalah sebuah website yang disediakan dengan tujuan mempermudah penataan parkir 
+menjadi lebih kondusif dan juga Janpanik ini menyediaan beragam fitur.
 
-Dipersilahkan untuk mengambil, mengubah atau memodifikasi.
 
-Cara Penggunaan:
+ANGGOTA KELOMPOK JANPANIK 
 
-1. Pindahkan folder parkir-codeigniter ke htdoc
-2. Buka phpmyadmin, buat database baru dengan nama "parkir-codeigniter"
-3. ke Tab import pilih choose file: htdoc > parkir-codeigniter > database > parkir-codeigniter.sql
-5. Running di localhost/parkir-codeigniter/
-6. username password admin admin
+Trina Ramadhian (12210782) GITHUB:
+https://github.com/Trinaina19
+
+Nung Hayati (12210847) GITHUB:
+https://github.com/nunghayati
+
+Aulia Putri ANggraeni (12210762) GITHUB:
+https://github.com/auliapagr
+
+Silvia Setiawati (12210227) GITHUB:
+https://github.com/silviaily
+
+Devyta Wulandari (12210668) GITHUB:
+https://github.com/Devytawulandari
+
+
+
+
+
+
+
+
